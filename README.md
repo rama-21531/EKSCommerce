@@ -268,24 +268,14 @@ And pay the amount .
 ![](https://miro.medium.com/v2/resize:fit:736/1*i6Z6hvwUNgiAlpxOYFRfPw.png)
 
 ***Congratulations… Your Order has been Successfully placed.. :)***
-
 ## 🛠️ Author & Community  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
+This project is crafted by **Rama Krishna Palnati** 💡.  
+I'd love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
+- **Email**: [Ramakrishnap4121@gmail.com](mailto:Ramakrishnap4121@gmail.com)  
+- **LinkedIn**: [Rama Palnati](https://www.linkedin.com/in/rama-palnati-530165376/)  
 
 ---
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
